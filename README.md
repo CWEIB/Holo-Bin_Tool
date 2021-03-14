@@ -1,6 +1,6 @@
-![](/Images/Images/软件界面1.png)
+![](/Images/软件界面1.png)
 
-![](/Images/Images/软件界面2.png)
+![](/Images/软件界面2.png)
 
 # HoloCubic--多功能透明显示屏桌面站-工具软件
 
