@@ -1,6 +1,6 @@
 ![](/Images/软件界面1.png)
 
-<img src = "![](/Images/软件界面2.png)" align="center">
+![](/Images/软件界面2.png)
 
 ##  软件代码开源
 
